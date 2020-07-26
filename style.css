@@ -1,0 +1,32 @@
+.btn{
+    background-color: black;
+    border-radius: 20px;
+
+    color: white;
+    margin: 5px;
+}
+.a{
+    text-align: center;
+    border-radius: 20px;
+
+}
+.b{
+    text-align: center;
+    font-family: cursive;
+}
+.c{
+    background-color:aqua;
+    border-radius: 20px;
+    border: 2px solid purple;
+    color: black;
+}
+.d{
+    background-color: chocolate;
+    border-radius: 20px;
+
+}
+.e{
+    background-color: darkseagreen;
+    border-radius: 20px;
+
+}
